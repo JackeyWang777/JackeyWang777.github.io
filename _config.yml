@@ -4,10 +4,10 @@ SEOTitle: 家祺’s Blog✈
 header-img: img/about-bg.jpg
 email: 16281052@bjtu.edu.cn
 description: "关于程序与设计、旅行者与梦想家 | 杨涵晨,Programmer,Software Engineer，UX Designer | 这里是 @jack杨涵晨 的个人博客，与你一起发现更大的世界。"
-keyword: "杨涵晨, jack杨涵晨, jack, jackyanghc, @jackyanghc, 杨涵晨的博客, jack Blog, 博客, 个人网站, 互联网, 机器学习, tensorflow, 深度学习, 设计"
-url: "https://jackyanghc.github.io"          # your host, for absolute URL
+keyword: "杨涵晨, jack杨涵晨, jack, JackeyWang777, @JackeyWang777, 杨涵晨的博客, jack Blog, 博客, 个人网站, 互联网, 机器学习, tensorflow, 深度学习, 设计"
+url: "https://JackeyWang777.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jackyanghc/jackyanghc.github.io.git" # you code repository
+github_repo: "https://github.com/JackeyWang777/JackeyWang777.github.io.git" # you code repository
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -15,8 +15,8 @@ future: true
 # SNS settings
 RSS: false
 zhihu_username:     yang-han-chen-55
-github_username:    jackyanghc
-#facebook_username:  jackyanghc
+github_username:    JackeyWang777
+#facebook_username:  JackeyWang777
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -70,11 +70,11 @@ netease_comment: false
 # ba_track_id: [your track id]
 gitalk:
   enable: true   #是否开启Gitalk评论
-  clientID: 4be0d8442674370d2bf7                          #生成的clientID
-  clientSecret: 38d1c090dfd6549e9f1694786a442f2b1097fac5    #生成的clientSecret
-  repo: jackyanghc.github.io    #仓库名称
-  owner: jackyanghc    #github用户名
-  admin: jackyanghc
+  clientID: 1151613a00f1ee695c95                          #生成的clientID
+  clientSecret: 4959fc2efda418ae3c988031f9d139724e8c3469   #生成的clientSecret
+  repo: JackeyWang777.github.io    #仓库名称
+  owner: JackeyWang777    #github用户名
+  admin: JackeyWang777
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
