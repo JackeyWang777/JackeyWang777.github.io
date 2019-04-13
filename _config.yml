@@ -1,6 +1,6 @@
 # Site settings
 title: Wjq Blog
-SEOTitle: 家祺’s Blog✈
+SEOTitle: Jackey’s Blog♉
 header-img: img/about-bg.jpg
 email: 18120411@bjtu.edu.cn
 description: "关于程序与设计、旅行者与梦想家 | ,Programmer,Software Engineer，UX Designer | 这里是 @jackey王家祺 的个人博客，与你一起发现更大的世界。"
@@ -82,7 +82,7 @@ gitalk:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，你就是一切"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/jackey7.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -110,17 +110,17 @@ friends: [
         href: "https://jackyanghc.github.io/"
     }
     ,{
-        title: "孙汉武的博客",
-        href: "https://sunhanwu.github.io/SunPages"
+        title: "知乎",
+        href: "https://www.zhihu.com/"
     }
     ,{
-        title: "刘欢的博客",
-        href: "https://michel-liu.github.io/"
+        title: "网易公开课",
+        href: "http://open.163.com/"
     },{
-        title: "BJTU",
-        href: "https://www.bjtu.edu.cn"
+        title: "网易云课堂",
+        href: "https://study.163.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "慕课网",
+        href: "http://www.imooc.com/"
     }
 ]
