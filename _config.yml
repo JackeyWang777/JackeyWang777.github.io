@@ -81,7 +81,7 @@ gitalk:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "When you want to give up, think about what makes you insist on here.<br>在你想要放弃的时候，想想是什么让你当初坚持走到了这里<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspKobe·Bryant"
+sidebar-about-description: "When you want to give up, think about what makes you insist on here.<br>在你想要放弃的时候，想想是什么让你当初坚持走到了这里<br><p align="right">Kobe·Bryant</p>"
 sidebar-avatar: /img/jackey7.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
